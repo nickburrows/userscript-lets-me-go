@@ -1,8 +1,8 @@
 {
-  "name": "i-am-sure",
-  "version": "0.0.3",
+  "name": "userscript-lets-me-go",
+  "version": "0.0.4",
   "description": "",
-  "author": "Nick",
+  "author": "Nick Lin",
   "license": "MIT",
   "private": true,
   "engines": {
